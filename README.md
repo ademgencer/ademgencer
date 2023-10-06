@@ -10,7 +10,7 @@
 - 
 [Yazı içi linkiyim](https://www.google.com)
 
-[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
+[Web UI Automation Testing]([https://www.google.com](https://github.com/ademgencer/MoneyPayWeb) "Money Pay Web")
 
 [Referans stili bir link yapısındayım][Büyük küçük harf gözetmeyen referans yazısı]
 
