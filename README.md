@@ -1,8 +1,8 @@
 - 👋 Merhaba ben @ademgencer
 - 🌱 Şu anda iletişim ve araç takip sistemiyle ilgili bir projenin test otomasyonunda çalışıyorum
 - 🔭 Aktif projemizde Java OOP, Selenyum Web Driver, TestNG, Cucumber ve Maven kullanıyoruz
-- 💞️ Şu anda kontrol bazlı bir test otomasyon framework kullanımını, Graddle ve Allure-Report öğreniyorum
-- 👀 UI, API, DB, Mobile ve Load Testing ile ilgileniyorum
+- 💞️ Şu anda Graddle ile build edilen kontrol bazlı bir test otomasyon framework' ünü ve Allure-Report' u öğreniyorum
+- 👀 İlgi alanlarım UI, API, DB, Mobile ve Load Testing
 - 👯 Eğer siz de test otomasyonuyla ilgileniyorsanız bazı örnek projeleri aşağıda bulabilirsiniz
 - 🌱 [Money Pay Web UI Testing](https://github.com/ademgencer/MoneyPayWeb) "Web UI Automation Testing"
 - 🌱 [Money Pay Application Testing](https://github.com/ademgencer/MoneyPay_WithAppium) "Mobile Automation Testing"
