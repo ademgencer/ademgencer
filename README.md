@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**ademgencer/ademgencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Merhaba ben @ademgencer
+- 🌱 Şu anda iletişim ve araç takip sistemiyle ilgili bir projenin test otomasyonunda çalışıyorum
+- 🔭 Aktif projemizde Java OOP, Selenyum Web Driver, TestNG, Cucumber ve Maven kullanıyoruz
+- 💞️ Şu anda test otomasyonla ilgili kontrol bazlı bir framework kullanımını ve Allure-Report öğreniyorum
+- 👀 UI, API, DB, Mobile Test ve Load Testing ile ilgileniyorum
+- 👯 Test otomasyonla ilgileniyorsanız bazı örnekleri aşağıda bulabilirsiniz
+- 📫 Bana nasıl ulaşabilirsiniz: ademyasargencer@gmail.com
+- 
+- 
+- 
