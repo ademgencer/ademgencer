@@ -1,6 +1,6 @@
 - 👋 Merhaba ben @ademgencer
 - 🌱 Şu anda iletişim ve araç takip sistemiyle ilgili bir projenin test otomasyonunda çalışıyorum
-- 🔭 Aktif projemizde Java OOP, Selenyum Web Driver, TestNG, Cucumber ve Maven kullanarak build ediyor ve report alıyoruz
+- 🔭 Aktif projemizde Java OOP, Selenyum Web Driver, TestNG, Cucumber ve Maven kullanarak build ediyor ve rapor alıyoruz
 - 💞️ Şu anda Graddle ile build edilen kontrol bazlı bir test otomasyon framework' ünü ve Allure-Report öğreniyorum
 - 👀 İlgi alanlarım UI, API, DB, Mobile ve Load Testing
 - 🔭 Yeni tool ve teknolojiler öğrenerek kendimi geliştirmeye devam ediyorum
